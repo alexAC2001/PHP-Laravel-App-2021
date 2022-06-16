@@ -29,6 +29,7 @@ In a group forum, users can view messages sent by other user. At the bottom of t
 # Data Access Object
 A Rest controller was implemented which contained multiple methods that called upon a Security Service class. In this method, if there are jobs in the database, then a success message will be sent in JSON format.
 ![image](https://user-images.githubusercontent.com/62003762/174059492-756f9202-0522-43d8-8b17-72adbfa3944d.png)
+
 The Security Service class methods create an instance of the SecuirtyDAO class, which contains methods needed to perform various requests with SQL statements. Here is an example of a method in the DAO class used to find all the jobs in the database.
 ![image](https://user-images.githubusercontent.com/62003762/174060994-0553fcac-53fb-42b0-a221-9d4b2cd918ca.png)
 
