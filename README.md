@@ -25,3 +25,7 @@ Users can join group forums to collaborate in different subjects. Here, AlexCarr
 
 In a group forum, users can view messages sent by other user. At the bottom of the page, the user is able to input text and click the 'Add Reply' button to send a message in the group forum.
 ![image](https://user-images.githubusercontent.com/62003762/174058649-dd55fb0c-f755-4886-bb48-4b826663b98d.png)
+
+# Data Access Object
+A Rest controller was implemented which contained multiple methods that called upon a Security Service class.
+![image](https://user-images.githubusercontent.com/62003762/174059492-756f9202-0522-43d8-8b17-72adbfa3944d.png)
