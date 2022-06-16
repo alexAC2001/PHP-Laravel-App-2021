@@ -3,4 +3,7 @@ This was a collaborative project that allows users to create their own accounts 
 
 ![image](https://user-images.githubusercontent.com/62003762/173732010-346ad1fa-47ec-4e8f-9328-0245dd51114b.png)
 
-# 
+# Authentication
+The w
+![image](https://user-images.githubusercontent.com/62003762/174056125-5c379fa4-740a-4619-81ff-fa7397bbdc6b.png)
+
