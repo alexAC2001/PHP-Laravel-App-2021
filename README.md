@@ -40,3 +40,7 @@ Here is the ER Diagram created for this project.
 # API Design Specification
 Here is an example of writing the specification of the API used for retrieving all jobs from the MySQL database.
 ![image](https://user-images.githubusercontent.com/62003762/174061760-35138cbb-ad6a-499a-8424-6edc05872a15.png)
+
+# Test Cases
+Here is an example of test cases created for logging in and out of an existing account.
+![image](https://user-images.githubusercontent.com/62003762/174062307-e205c10c-69ed-43ba-8a25-1a1ea1100661.png)
