@@ -15,4 +15,6 @@ Here, the user is logged in as an administrator. They are able to access of numb
 Administrators can create, update, and delete job posts for all users to view. For regular users, they would see an 'Apply' button next to each job post.
 ![image](https://user-images.githubusercontent.com/62003762/174057207-6f11ba5c-8c4e-4632-a3c3-27dca2ebf030.png)
 
-#
+# E-Portfolio
+Users are able to edit their E-Portfolio so other users, such as employers, can view their information. Here is an example.
+![image](https://user-images.githubusercontent.com/62003762/174057808-bbf5605e-9b13-4b03-abf0-a3bd263b6d45.png)
