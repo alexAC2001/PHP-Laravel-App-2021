@@ -4,7 +4,7 @@ This was a collaborative project that allows users to create their own accounts 
 ![image](https://user-images.githubusercontent.com/62003762/173732010-346ad1fa-47ec-4e8f-9328-0245dd51114b.png)
 
 # Login
-The website ensures the user is logged into an existing account in the databae.
+The website ensures the user is logged into an existing account in the MySQL databae.
 ![image](https://user-images.githubusercontent.com/62003762/174056125-5c379fa4-740a-4619-81ff-fa7397bbdc6b.png)
 
 # Home Page
@@ -30,6 +30,13 @@ In a group forum, users can view messages sent by other user. At the bottom of t
 A Rest controller was implemented which contained multiple methods that called upon a Security Service class. In this method, if there are jobs in the database, then a success message will be sent in JSON format.
 ![image](https://user-images.githubusercontent.com/62003762/174059492-756f9202-0522-43d8-8b17-72adbfa3944d.png)
 
-The Security Service class methods create an instance of the SecuirtyDAO class, which contains methods needed to perform various requests with SQL statements. Here is an example of a method in the DAO class used to find all the jobs in the database.
+The Security Service class methods create an instance of the SecuirtyDAO class, which contains methods needed to perform various requests with SQL statements. Here is an example of a method in the DAO class used to find all the jobs in the MySQL database.
 ![image](https://user-images.githubusercontent.com/62003762/174060994-0553fcac-53fb-42b0-a221-9d4b2cd918ca.png)
 
+# Diagrams
+Here is the ER Diagram created for this project.
+![image](https://user-images.githubusercontent.com/62003762/174061399-34ff7458-46e8-4f8a-9878-c8963b1fe381.png)
+
+# API Design Specification
+Here is an example of writing the specification of the API used for retrieving all jobs from the MySQL database.
+![image](https://user-images.githubusercontent.com/62003762/174061760-35138cbb-ad6a-499a-8424-6edc05872a15.png)
