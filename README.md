@@ -18,3 +18,10 @@ Administrators can create, update, and delete job posts for all users to view. F
 # E-Portfolio
 Users are able to edit their E-Portfolio so other users, such as employers, can view their information. Here is an example.
 ![image](https://user-images.githubusercontent.com/62003762/174057808-bbf5605e-9b13-4b03-abf0-a3bd263b6d45.png)
+
+# Group Message Forums
+Users can join group forums to collaborate in different subjects. Here, AlexCarrillo, a user, created 5 different forums that can be accessed by clicking on their corresponding 'View' button.
+![image](https://user-images.githubusercontent.com/62003762/174058239-66a80c73-b43b-48f2-be0e-775bf94f9b98.png)
+
+In a group forum, users can view messages sent by other user. At the bottom of the page, the user is able to input text and click the 'Add Reply' button to send a message in the group forum.
+![image](https://user-images.githubusercontent.com/62003762/174058649-dd55fb0c-f755-4886-bb48-4b826663b98d.png)
